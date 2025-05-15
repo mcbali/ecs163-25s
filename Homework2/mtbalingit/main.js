@@ -6,7 +6,7 @@ let margin = { top: 10, right: 30, bottom: 50, left: 60 };
 let histWidth = 600 - margin.left - margin.right;
 let histHeight = 400 - margin.top - margin.bottom;
 
-//define dimensions for the second plot (line chart)
+///define dimensions for the second plot (line chart)
 const lineWidth = 600;
 const lineHeight = 400;
 const lineMargin = { top: 10, right: 30, bottom: 50, left: 60 };
